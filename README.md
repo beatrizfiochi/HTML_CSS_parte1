@@ -66,4 +66,4 @@ else:
    print(f'O valor {num} é IMPAR')
 ```
 ## É possível colocar emoji
-Exemplo: Olá! :vulcan_salute :hand
+Exemplo: Olá! :vulcan_salute: :hand:
