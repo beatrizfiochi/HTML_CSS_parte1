@@ -47,7 +47,7 @@ Lista de tarefas:
 Marcar tarefas:
 - [x] Tarefa 4 (concluída)
 
-# Criando tabelas no md
+# Criando tabelas com md
 Num | Nome | Nota
 ---|---|---
 1 | Maria | 10
