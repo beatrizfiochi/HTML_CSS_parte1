@@ -53,3 +53,15 @@ Num | Nome | Nota
 1 | Maria | 10
 2 | Carol | 9,9
 3 | Filipi | 9,8
+
+## Marcar comandos:
+'document.write()' do JavaScript
+
+## Marcar trechos de programa:
+'''
+num= int(input('Digite um valor:'))
+if num % 2== 0:
+    print(f'O valor {num} é PAR')
+else:
+   print(f'O valor {num} é IMPAR')
+'''
