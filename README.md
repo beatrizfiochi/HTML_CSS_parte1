@@ -19,7 +19,7 @@ _Itálico_
 ---
 ***
 Podemos misturar configurações:
-_*Negrito e Itálico*_
+**_Negrito e Itálico_**
 
 Lista numerada:
 1. Teste
