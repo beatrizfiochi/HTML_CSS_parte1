@@ -46,3 +46,10 @@ Lista de tarefas:
 
 Marcar tarefas:
 - [x] Tarefa 4 (concluída)
+
+# Criando tabelas no md
+Num | Nome | Nota
+---|---|---
+1 | Maria | 10
+2 | Carol | 9,9
+3 | Filipi | 9,8
